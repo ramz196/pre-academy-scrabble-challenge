@@ -10,7 +10,7 @@ Welcome to the Scrabble challenge!
 
 1. Fork this repository and then:
 ```sh
-$ git clone https://github.com/digital-futures-academy/pre-academy-scrabble-challenge.git && cd pre-academy-scrabble-challenge
+$ git clone https://github.com/<YOUR GITHUB USERNAME>/pre-academy-scrabble-challenge.git && cd pre-academy-scrabble-challenge
 $ npm install # installs dependencies listed in package.json
 ```
 2. Run the tests from your project root directory. There should be a lot of failures to begin with. You can run your test suite in a few ways:
